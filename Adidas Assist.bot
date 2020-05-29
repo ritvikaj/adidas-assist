@@ -1,0 +1,27 @@
+{
+    "name": "Adidas Assist",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "https://adidasassist.azurewebsites.net/api/messages",
+            "id": "933b7ca0-a0dc-11ea-97d5-6386ac2c0686",
+            "name": "https://adidasassist.azurewebsites.net/api/messages"
+        },
+        {
+            "type": "qna",
+            "endpointKey": "3a1ca0e2-e78f-4f8d-bfb7-6c7d35a53cf2",
+            "hostname": "https://myqna.azurewebsites.net/qnamaker",
+            "kbId": "5fc1fae8-3574-4fe9-aeb4-029e3f795590",
+            "name": "Adidas Assist",
+            "subscriptionKey": "ae86a341e1944cf19cae0fc65ff10c54",
+            "id": "144"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "/Users/ritvikajhalani/Desktop/Adidas Assist Chatbot/adidasassist-src/Adidas Assist.bot",
+    "overrides": null
+}
